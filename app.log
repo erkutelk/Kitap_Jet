@@ -732,3 +732,53 @@
 2024-11-07 17:54:20,416 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
 2024-11-07 17:54:24,500 - WARNING - Satýcý bilgisi bulunamadý.
 2024-11-07 17:54:24,500 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:23:51,598 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:23:51,805 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:23:55,989 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:23:55,990 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:26:36,900 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:26:37,196 - DEBUG - https://www.trendyol.com:443 "GET /koridor-yayincilik/rezonans-kanunu-pierre-franckh-p-5778106?boutiqueId=673982&merchantId=548108 HTTP/1.1" 200 None
+2024-11-07 23:28:48,239 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:28:48,456 - DEBUG - https://www.trendyol.com:443 "GET /destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:28:48,637 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:28:52,812 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:28:52,813 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:29:01,932 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:29:02,274 - DEBUG - https://www.trendyol.com:443 "GET /destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:02,457 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:29:06,686 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:29:06,686 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:29:06,695 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:29:06,910 - DEBUG - https://www.trendyol.com:443 "GET /kayip-kita-yayinlari/eriyen-sinif-bez-ciltli-p-871893837?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:07,263 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-bez-ciltli-p-871893837?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:29:11,572 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:29:11,573 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:29:11,582 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:29:11,813 - DEBUG - https://www.trendyol.com:443 "GET /sule-yayinlari/oykumuzun-hikayesi-p-871893805?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:11,958 - DEBUG - https://www.trendyol.com:443 "GET /pd/sule-yayinlari/oykumuzun-hikayesi-p-871893805?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:29:16,132 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:29:16,133 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:29:16,143 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:29:16,423 - DEBUG - https://www.trendyol.com:443 "GET /divan-kitap/kuyruklu-yildiz-altinda-bir-izdivac-arapca-p-871893767?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:16,638 - DEBUG - https://www.trendyol.com:443 "GET /pd/divan-kitap/kuyruklu-yildiz-altinda-bir-izdivac-arapca-p-871893767?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:29:21,030 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:29:21,031 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:29:21,043 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:29:21,311 - DEBUG - https://www.trendyol.com:443 "GET /elips-kitap/cocuklara-siirler-p-871893429?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:21,454 - DEBUG - https://www.trendyol.com:443 "GET /pd/elips-kitap/cocuklara-siirler-p-871893429?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:29:25,726 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:29:25,726 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:29:25,731 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:29:25,975 - DEBUG - https://www.trendyol.com:443 "GET /sule-yayinlari/bana-ogretmenini-soyle-p-871893411?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:26,184 - DEBUG - https://www.trendyol.com:443 "GET /pd/sule-yayinlari/bana-ogretmenini-soyle-p-871893411?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:29:30,384 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:29:30,580 - DEBUG - https://www.trendyol.com:443 "GET /fom-kitap/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:30,762 - DEBUG - https://www.trendyol.com:443 "GET /fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:30,918 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:29:35,113 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:29:35,113 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 23:29:35,127 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 23:29:35,348 - DEBUG - https://www.trendyol.com:443 "GET /marifet-yayinlari/insani-kamil-sohbetler-4-p-871890721?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 301 None
+2024-11-07 23:29:35,538 - DEBUG - https://www.trendyol.com:443 "GET /pd/marifet-yayinlari/insani-kamil-sohbetler-4-p-871890721?merchantId=995917&filterOverPriceListings=false HTTP/1.1" 200 None
+2024-11-07 23:29:39,781 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 23:29:39,781 - WARNING - Fiyat bilgisi bulunamadý.
