@@ -1,0 +1,734 @@
+2024-11-07 16:34:07,445 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:34:07,623 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:36:33,213 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:36:33,363 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:36:49,991 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:36:50,162 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:38:40,918 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:38:41,201 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:41:50,806 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:41:51,029 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:43:02,952 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:43:03,183 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:43:35,085 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:43:35,264 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:43:53,027 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:43:53,225 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:44:11,117 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:44:11,365 - DEBUG - https://www.trendyol.com:443 "GET /pd/teleskop-populer-bilim/bazi-ucaklar-havada-asili-kalabilir-bunu-bilmiyordum-hava-araclarina-dair-harika-bilgiler-p-858799316 HTTP/11" 200 None
+2024-11-07 16:45:00,834 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:45:01,031 - DEBUG - https://www.trendyol.com:443 "GET /pd/nesil-cocuk-yayinlari/pirtigo-nun-patirtilari-ilginc-bilgic-kardesler-p-850833423?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:46:10,126 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:46:10,441 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:48:36,519 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:48:36,693 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:49:22,500 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:49:22,683 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:49:55,917 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:49:56,112 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:50:39,941 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:50:40,128 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:51:49,184 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:51:49,370 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:52:07,175 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:52:07,335 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:52:42,604 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:52:42,761 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:55:05,100 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:55:05,284 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:55:20,661 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:55:20,849 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:56:22,095 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:56:22,263 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:57:29,558 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:57:29,718 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:57:54,641 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:57:54,803 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 16:58:36,327 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 16:58:36,511 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:00:08,013 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:00:08,270 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:00:56,840 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:00:57,014 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:01:11,238 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:01:11,425 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:01:44,070 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:01:44,271 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:02:05,521 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:02:05,686 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:02:26,270 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:02:26,448 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:04:31,222 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:04:31,385 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:05:36,173 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:05:36,389 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:06:16,430 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:06:16,593 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:06:35,462 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:06:35,658 - DEBUG - https://www.trendyol.com:443 "GET /pd/koc-universitesi-yayinlari/eglenceli-sorular-ilginc-cevaplar-super-bilginler-p-845078705?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:07:19,676 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:07:19,842 - DEBUG - https://www.trendyol.com:443 "GET /destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:07:20,008 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:08:28,457 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:08:28,736 - DEBUG - https://www.trendyol.com:443 "GET /puset-kitap/yardimsever-kutular-p-869596878?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:11:09,932 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:11:10,117 - DEBUG - https://www.trendyol.com:443 "GET /puset-kitap/yardimsever-kutular-p-869596878?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:12:55,391 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:12:55,653 - DEBUG - https://www.trendyol.com:443 "GET /puset-kitap/yardimsever-kutular-p-869596878?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:12:55,813 - DEBUG - https://www.trendyol.com:443 "GET /pd/puset-kitap/yardimsever-kutular-p-869596878?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:13:18,248 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:13:18,395 - DEBUG - https://www.trendyol.com:443 "GET /puset-kitap/yardimsever-kutular-p-869596878?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:13:18,603 - DEBUG - https://www.trendyol.com:443 "GET /pd/puset-kitap/yardimsever-kutular-p-869596878?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:15:03,859 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:15:04,138 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bursa-nin-daveti-bir-osmanli-baskenti-guncesi-p-869112649?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:16:04,248 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:16:04,758 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bursa-nin-daveti-bir-osmanli-baskenti-guncesi-p-869112649?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:16:13,891 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:16:13,892 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:16:17,534 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:16:17,534 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:16:21,668 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:16:21,669 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:17:06,119 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:17:06,120 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:17:12,281 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:17:12,282 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:17:35,298 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:17:35,298 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:18:20,808 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:21,085 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:23,191 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:23,397 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:25,496 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:25,658 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:27,756 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:27,935 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:30,030 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:30,203 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:33,716 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:33,883 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:36,000 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:36,190 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:38,328 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:38,527 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:40,623 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:40,870 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:42,996 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:43,165 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:45,267 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:45,445 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:47,540 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:47,696 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:49,802 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:50,006 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:52,103 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:52,261 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:18:54,347 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:18:54,532 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:19:36,700 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:19:36,946 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:19:39,055 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:19:39,208 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:19:41,308 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:19:41,519 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:19:43,636 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:19:43,811 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:19:45,899 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:19:46,055 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:19:48,157 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:19:48,359 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:19:56,146 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:19:56,342 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:20:52,776 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:20:52,978 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:21:02,572 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:21:02,736 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:21:34,861 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:21:35,034 - DEBUG - https://www.trendyol.com:443 "GET /pd/genel-markalar/bursa-nin-daveti-bir-osmanli-baskenti-guncesi-p-869112649?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:21:59,643 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:21:59,644 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:22:33,795 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:22:33,795 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:22:40,858 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:22:40,858 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:23:07,063 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:23:07,064 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:23:38,262 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:23:38,263 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:23:50,656 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:23:50,657 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:24:48,522 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:24:48,522 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:24:55,607 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:24:55,607 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:09,247 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:09,247 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:15,107 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:15,107 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:34,442 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:34,442 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:43,241 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:43,241 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,659 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,660 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,661 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kayip-kita-yayinlari/eriyen-sinif-bez-ciltli-p-871893837?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,661 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,662 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sule-yayinlari/oykumuzun-hikayesi-p-871893805?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,662 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,663 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/divan-kitap/kuyruklu-yildiz-altinda-bir-izdivac-arapca-p-871893767?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,663 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,664 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/elips-kitap/cocuklara-siirler-p-871893429?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,664 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,665 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sule-yayinlari/bana-ogretmenini-soyle-p-871893411?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,665 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,666 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/fom-kitap/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,666 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,667 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/marifet-yayinlari/insani-kamil-sohbetler-4-p-871890721?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,667 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,668 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/odtu-gelistirme-vakfi-yayincilik/13-yasina-gelmeden-yasanacak-50-macera-icin-kilavuz-ciltli-p-871890720?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,668 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,669 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/yordam-kitap/kadinlar-direnis-ve-devrim-p-871890658?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,669 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,670 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ema-kitap/alice-harikalar-ulkesinde-p-871890657?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,670 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,671 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/pinar-yayinlari/fahreddin-pasa-ve-medine-savunmasi-p-871890650?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,671 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,672 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sule-yayinlari/hayat-agir-olum-hafif-p-871664861?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,672 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,673 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/butik-yayinlari/kendini-iyilestirme-isi-nasil-yapilir-p-871533017?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,674 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,675 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,675 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,676 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/karavan-cocuk/top-avcisi-tomo-p-870999829?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,676 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,677 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/karavan-cocuk/suya-fisildayan-bebek-p-870999762?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,677 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,678 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/bicirik-yayinlari/dikkatli-kaplumbaga-yaz-sil-kalemli-p-870679604?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,678 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,679 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/damla-yayinevi/safii-mezhebine-gore-abdest-gusul-namaz-p-870679515?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,679 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,680 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/fol-kitap/cioran-p-870280036?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,680 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,681 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/scala-yayincilik/nasil-karar-verilir-p-870126142?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,682 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,682 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/bookalemun-yayinevi/zitliklari-ogreniyorum-p-870124771?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,683 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,684 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/profil-kitap/okulda-tuzak-p-869821393?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,685 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,685 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ema-kitap/denizler-altinda-yirmi-bin-fersah-p-869814680?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,686 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,686 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/mundi/yildiz-dostlar-karanlik-oyunlar-p-869814673?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,687 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,687 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/nesil-cocuk-yayinlari/gizli-isler-tayfasi-2-korkunc-fikirler-istasyonu-p-869807689?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,688 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,689 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/eglenceli-bilgi-yayinlari/muhammed-ali-tum-zamanlarin-en-iyisi-p-869805009?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,690 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,691 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/cinar-yayinlari/cok-kucuk-ne-kadar-buyuktur-p-869804339?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,691 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,692 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/parlak-fikirler-seti-10-kitap-p-869804336?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,693 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,694 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/boyalikus-yayinlari/zaman-tuneliyle-sumer-e-yolculuk-p-869803061?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,694 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,695 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/kur-an-isiginda-tatli-ruyalar-masallari-p-869601370?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,696 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,697 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/yuruyen-ekmek-kirintilari-p-869599034?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,697 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,698 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/ruzgarin-surprizi-p-869597271?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,698 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,699 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/yardimsever-kutular-p-869596878?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,699 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,700 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/kivircik-in-parlak-arkadaslari-p-869587368?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,700 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,701 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/ikiz-corbalar-p-869585677?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,702 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,703 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/arlo-uyuyamayan-aslan-p-869521653?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,704 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,704 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/oda-yayinlari/zor-zamanlar-p-869314687?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,705 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,706 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilgi-kultur-sanat-yayinlari/bursanin-daveti-bir-osmanli-baskenti-guncesi-p-869112649?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,706 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,707 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/dergah-yayinlari/rubab-i-sikeste-p-868726954?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,707 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,707 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/yordam-kitap/paradigmanin-iflasi-resmi-ideolojinin-elestirisine-giris-p-868714449?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,708 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,709 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/0-6-yas-yayinlari/hayvanlar-ilk-bilgilerim-dizisi-p-868705443?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,709 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,710 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/nesil-cocuk-yayinlari/bizim-can-p-868704984?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,711 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,711 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/fol-kitap/aklin-islevi-p-868317052?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,712 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,712 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilksatir-yayinevi/nietzsche-ile-kendini-kanitla-p-867578888?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,713 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,713 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sel-yayincilik/marksizm-p-867495950?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,714 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,715 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/fol-kitap/kesinlik-uzerine-p-867192943?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,715 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,716 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/imajlarin-yazgisi-p-867192869?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,717 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,718 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/cicek-doktoru-p-867192846?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,718 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,719 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/vak-vak-yayinlari/para-dagitan-adam-p-867190508?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,720 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,720 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/en-kitap/bir-bilmecem-var-cocuklar-p-867190484?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,721 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,721 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sel-yayincilik/su-yagmur-bir-yagsa-p-867063043?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,722 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,723 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kaknus-yayinlari/bana-kendi-kendime-yetmeyi-ogret-p-867056796?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,723 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,724 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sola-kidz/hayal-gucu-sinir-tanimaz-p-867045541?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,724 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,725 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/vakifbank-kultur-yayinlari/teo-ve-bir-asigin-icatlari-p-867045413?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,725 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,726 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/erdem-cocuk/burada-turkce-konusuyoruz-5-kitap-takim-p-867043211?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,726 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,727 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/eglenceli-bilgi-yayinlari/hocam-sagolsun-imza-padisah-p-867040868?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,727 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,728 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/maya-kitap/hint-mitolojisi-p-866652392?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,728 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,729 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/odtu-gelistirme-vakfi-yayincilik/pikolo-ile-felsefe-ogreniyorum-konus-benimle-kucuk-kedi-p-866651373?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,730 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,731 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/hollywood-sinemasi-ve-bilincalti-operasyonlari-p-866651356?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,732 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,733 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/vadi-yayinlari/bi-bakip-cikcm-p-866521166?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,733 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,734 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/delilik-ulkesinden-notlar-p-866520616?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,734 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,735 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/beyan-yayinlari/yaratilis-destani-yahut-hz-adem-p-866517996?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,735 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,736 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/beta-yayinevi/turkiye-finansal-raporlama-standartlari-uygulamalari-p-866514757?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,736 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,737 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/albaraka-yayinlari/yonetim-dusuncesinin-tarihi-p-866510588?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,738 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,738 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/erdem-cocuk/kucuk-kemanci-p-866509305?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,739 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,739 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kaknus-yayinlari/ask-ve-evlilik-terapisi-p-866509201?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,740 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,740 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/erdem-cocuk/yerimde-olsan-dizisi-10-kitap-p-866507539?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,741 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,741 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/cocuklar-icin-bitki-ansiklopedisi-ciltli-p-866505093?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,742 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,742 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/redhouse-kidz-yayinlari/cocuklar-icin-felsefe-seti-2-p-866504990?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,743 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,743 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/elma-cocuk/dunyanin-oyunu-p-866504972?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,744 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,745 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ucan-fil-yayinlari/bali-kim-sever-sivama-cilt-p-866504971?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,745 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,746 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/0-6-yas-yayinlari/penguen-benim-hayvan-dostlarim-ciltli-p-866504960?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,746 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,747 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kripto-basim-yayin/milli-istihbarat-p-866503807?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,747 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,748 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/karatay-cocuk/hiper-boyama-egitici-ve-ogretici-boyama-kitabi-p-866502998?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,748 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,749 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/parilti-yayinlari/neseli-boyama-meyve-sebze-p-866502674?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,749 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,750 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/parilti-yayinlari/sevimli-kolay-boyama-1-p-866502611?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,750 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,751 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/mundi/arkadaslik-dedigin-nedir-charlie-brown-p-866502572?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,752 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,752 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ensar-nesriyat/ilk-adim-arapca-yazi-defteri-p-866502559?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,753 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,753 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/alfa-psikoloji-yayinlari/hicbir-tesaduf-basari-degildir-p-865408584?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,753 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,754 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/alfa-psikoloji-yayinlari/takma-be-kanka-p-865407487?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,754 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,755 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilgi-kultur-sanat-yayincilik/suc-ve-ceza-p-865332033?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,755 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,756 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sentez-yayinlari/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,756 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,757 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kripto-basim-yayin/uluslararasi-iliskilerin-ekonomi-politigi-robert-gilpin-p-864905650?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,758 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,759 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/buyuk-dogu-yayinlari/iman-ve-aksiyon-46-necip-fazil-butun-eserleri-p-864794129?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,759 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,760 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/peta-kitap/dogumundan-olumune-ataturk-p-864685104?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,760 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,761 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sel-yayincilik/sehirli-karinca-p-864675335?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,761 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,762 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/pinar-yayinlari/ermis-p-864675282?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,762 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,763 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/elips-kitap/resimli-kurk-mantolu-madonna-p-864675106?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,763 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,764 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilgi-kultur-sanat-yayincilik/hayvan-ciftligi-p-864675002?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,764 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,765 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/jaguar-kitap/kolima-oykuleri-p-864674966?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,765 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,766 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilgi-kultur-sanat-yayincilik/1984-p-864674932?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,766 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,767 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/mahya-yayinlari/gelecek-p-864674928?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,767 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,768 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/yurt-kitap-yayin/mahser-halk-elcisi-seyyit-nesimi-p-864674839?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,768 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,769 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/pinar-yayinlari/beyaz-zambaklar-ulkesinde-p-864674836?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,770 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,770 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kafka-yayinevi/ogullar-p-864674761?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,771 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,772 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/akcag-yayinlari/perili-kosk-kiskanclik-tos-p-864674759?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,772 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,773 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/on8-kitap/mistral-p-864674750?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,773 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:25:50,774 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/damla-yayinevi/zoyadan-kacirilis-p-864674745?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:25:50,774 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,561 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,561 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,562 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kayip-kita-yayinlari/eriyen-sinif-bez-ciltli-p-871893837?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,562 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,562 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sule-yayinlari/oykumuzun-hikayesi-p-871893805?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,563 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,563 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/divan-kitap/kuyruklu-yildiz-altinda-bir-izdivac-arapca-p-871893767?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,563 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,564 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/elips-kitap/cocuklara-siirler-p-871893429?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,564 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,565 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sule-yayinlari/bana-ogretmenini-soyle-p-871893411?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,565 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,566 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/fom-kitap/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,566 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,567 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/marifet-yayinlari/insani-kamil-sohbetler-4-p-871890721?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,568 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,568 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/odtu-gelistirme-vakfi-yayincilik/13-yasina-gelmeden-yasanacak-50-macera-icin-kilavuz-ciltli-p-871890720?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,569 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,569 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/yordam-kitap/kadinlar-direnis-ve-devrim-p-871890658?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,570 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,570 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ema-kitap/alice-harikalar-ulkesinde-p-871890657?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,571 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,571 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/pinar-yayinlari/fahreddin-pasa-ve-medine-savunmasi-p-871890650?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,572 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,572 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sule-yayinlari/hayat-agir-olum-hafif-p-871664861?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,573 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,573 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/butik-yayinlari/kendini-iyilestirme-isi-nasil-yapilir-p-871533017?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,574 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,575 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,576 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,577 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/karavan-cocuk/top-avcisi-tomo-p-870999829?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,578 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,579 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/karavan-cocuk/suya-fisildayan-bebek-p-870999762?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,579 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,580 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/bicirik-yayinlari/dikkatli-kaplumbaga-yaz-sil-kalemli-p-870679604?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,580 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,581 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/damla-yayinevi/safii-mezhebine-gore-abdest-gusul-namaz-p-870679515?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,581 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,582 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/fol-kitap/cioran-p-870280036?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,583 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,583 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/scala-yayincilik/nasil-karar-verilir-p-870126142?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,584 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,584 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/bookalemun-yayinevi/zitliklari-ogreniyorum-p-870124771?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,585 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,586 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/profil-kitap/okulda-tuzak-p-869821393?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,586 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,586 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ema-kitap/denizler-altinda-yirmi-bin-fersah-p-869814680?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,587 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,587 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/mundi/yildiz-dostlar-karanlik-oyunlar-p-869814673?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,588 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,589 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/nesil-cocuk-yayinlari/gizli-isler-tayfasi-2-korkunc-fikirler-istasyonu-p-869807689?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,589 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,590 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/eglenceli-bilgi-yayinlari/muhammed-ali-tum-zamanlarin-en-iyisi-p-869805009?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,590 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,591 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/cinar-yayinlari/cok-kucuk-ne-kadar-buyuktur-p-869804339?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,591 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,591 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/parlak-fikirler-seti-10-kitap-p-869804336?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,592 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,592 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/boyalikus-yayinlari/zaman-tuneliyle-sumer-e-yolculuk-p-869803061?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,593 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,593 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/kur-an-isiginda-tatli-ruyalar-masallari-p-869601370?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,594 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,594 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/yuruyen-ekmek-kirintilari-p-869599034?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,595 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,595 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/ruzgarin-surprizi-p-869597271?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,596 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,597 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/yardimsever-kutular-p-869596878?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,597 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,599 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/kivircik-in-parlak-arkadaslari-p-869587368?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,600 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,601 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/puset-kitap/ikiz-corbalar-p-869585677?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,601 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,602 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/arlo-uyuyamayan-aslan-p-869521653?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,602 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,603 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/oda-yayinlari/zor-zamanlar-p-869314687?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,604 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,604 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilgi-kultur-sanat-yayinlari/bursanin-daveti-bir-osmanli-baskenti-guncesi-p-869112649?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,605 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,606 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/dergah-yayinlari/rubab-i-sikeste-p-868726954?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,606 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,607 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/yordam-kitap/paradigmanin-iflasi-resmi-ideolojinin-elestirisine-giris-p-868714449?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,607 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,608 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/0-6-yas-yayinlari/hayvanlar-ilk-bilgilerim-dizisi-p-868705443?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,608 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,609 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/nesil-cocuk-yayinlari/bizim-can-p-868704984?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,609 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,610 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/fol-kitap/aklin-islevi-p-868317052?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,610 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,611 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilksatir-yayinevi/nietzsche-ile-kendini-kanitla-p-867578888?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,611 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,612 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sel-yayincilik/marksizm-p-867495950?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,613 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,614 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/fol-kitap/kesinlik-uzerine-p-867192943?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,614 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,615 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/imajlarin-yazgisi-p-867192869?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,616 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,616 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/cicek-doktoru-p-867192846?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,617 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,617 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/vak-vak-yayinlari/para-dagitan-adam-p-867190508?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,618 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,618 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/en-kitap/bir-bilmecem-var-cocuklar-p-867190484?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,619 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,619 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sel-yayincilik/su-yagmur-bir-yagsa-p-867063043?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,620 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,621 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kaknus-yayinlari/bana-kendi-kendime-yetmeyi-ogret-p-867056796?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,621 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,622 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sola-kidz/hayal-gucu-sinir-tanimaz-p-867045541?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,622 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,623 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/vakifbank-kultur-yayinlari/teo-ve-bir-asigin-icatlari-p-867045413?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,623 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,624 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/erdem-cocuk/burada-turkce-konusuyoruz-5-kitap-takim-p-867043211?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,625 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,625 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/eglenceli-bilgi-yayinlari/hocam-sagolsun-imza-padisah-p-867040868?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,626 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,627 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/maya-kitap/hint-mitolojisi-p-866652392?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,628 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,628 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/odtu-gelistirme-vakfi-yayincilik/pikolo-ile-felsefe-ogreniyorum-konus-benimle-kucuk-kedi-p-866651373?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,629 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,630 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/hollywood-sinemasi-ve-bilincalti-operasyonlari-p-866651356?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,630 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,631 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/vadi-yayinlari/bi-bakip-cikcm-p-866521166?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,631 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,632 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/delilik-ulkesinden-notlar-p-866520616?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,632 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,633 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/beyan-yayinlari/yaratilis-destani-yahut-hz-adem-p-866517996?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,634 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,634 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/beta-yayinevi/turkiye-finansal-raporlama-standartlari-uygulamalari-p-866514757?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,635 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,635 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/albaraka-yayinlari/yonetim-dusuncesinin-tarihi-p-866510588?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,636 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,636 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/erdem-cocuk/kucuk-kemanci-p-866509305?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,637 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,637 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kaknus-yayinlari/ask-ve-evlilik-terapisi-p-866509201?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,638 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,638 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/erdem-cocuk/yerimde-olsan-dizisi-10-kitap-p-866507539?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,639 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,640 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ketebe-yayinlari/cocuklar-icin-bitki-ansiklopedisi-ciltli-p-866505093?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,641 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,641 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/redhouse-kidz-yayinlari/cocuklar-icin-felsefe-seti-2-p-866504990?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,642 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,643 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/elma-cocuk/dunyanin-oyunu-p-866504972?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,643 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,644 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ucan-fil-yayinlari/bali-kim-sever-sivama-cilt-p-866504971?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,644 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,645 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/0-6-yas-yayinlari/penguen-benim-hayvan-dostlarim-ciltli-p-866504960?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,645 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,646 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kripto-basim-yayin/milli-istihbarat-p-866503807?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,646 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,647 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/karatay-cocuk/hiper-boyama-egitici-ve-ogretici-boyama-kitabi-p-866502998?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,648 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,648 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/parilti-yayinlari/neseli-boyama-meyve-sebze-p-866502674?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,649 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,650 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/parilti-yayinlari/sevimli-kolay-boyama-1-p-866502611?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,650 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,651 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/mundi/arkadaslik-dedigin-nedir-charlie-brown-p-866502572?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,651 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,652 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ensar-nesriyat/ilk-adim-arapca-yazi-defteri-p-866502559?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,652 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,653 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/alfa-psikoloji-yayinlari/hicbir-tesaduf-basari-degildir-p-865408584?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,654 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,655 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/alfa-psikoloji-yayinlari/takma-be-kanka-p-865407487?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,655 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,656 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilgi-kultur-sanat-yayincilik/suc-ve-ceza-p-865332033?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,656 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,657 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sentez-yayinlari/bilgi-sosyolojisi-p-865331302?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,657 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,658 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kripto-basim-yayin/uluslararasi-iliskilerin-ekonomi-politigi-robert-gilpin-p-864905650?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,658 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,659 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/buyuk-dogu-yayinlari/iman-ve-aksiyon-46-necip-fazil-butun-eserleri-p-864794129?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,660 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,661 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/peta-kitap/dogumundan-olumune-ataturk-p-864685104?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,661 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,661 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/sel-yayincilik/sehirli-karinca-p-864675335?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,662 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,662 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/pinar-yayinlari/ermis-p-864675282?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,663 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,663 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/elips-kitap/resimli-kurk-mantolu-madonna-p-864675106?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,664 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,664 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilgi-kultur-sanat-yayincilik/hayvan-ciftligi-p-864675002?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,665 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,666 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/jaguar-kitap/kolima-oykuleri-p-864674966?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,666 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,667 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/ilgi-kultur-sanat-yayincilik/1984-p-864674932?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,667 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,668 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/mahya-yayinlari/gelecek-p-864674928?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,669 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,669 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/yurt-kitap-yayin/mahser-halk-elcisi-seyyit-nesimi-p-864674839?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,670 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,670 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/pinar-yayinlari/beyaz-zambaklar-ulkesinde-p-864674836?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,671 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,671 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/kafka-yayinevi/ogullar-p-864674761?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,672 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,672 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/akcag-yayinlari/perili-kosk-kiskanclik-tos-p-864674759?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,673 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,674 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/on8-kitap/mistral-p-864674750?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,674 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:24,675 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/damla-yayinevi/zoyadan-kacirilis-p-864674745?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:24,675 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:38,958 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:26:38,959 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:26:52,375 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:26:52,594 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:26:54,717 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:26:54,893 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:26:57,001 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:26:57,172 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:26:59,287 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:26:59,576 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:27:01,692 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:27:01,942 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:27:38,971 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:27:39,165 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:27:41,277 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:27:41,451 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:27:43,556 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:27:43,759 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:27:57,417 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:27:57,620 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:28:42,718 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:28:42,719 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:29:17,761 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:29:19,762 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:30:03,873 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:30:04,139 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:30:08,273 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:30:08,445 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:30:12,580 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:30:12,750 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:30:59,209 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:30:59,397 - DEBUG - https://www.trendyol.com:443 "GET /destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:30:59,561 - DEBUG - https://www.trendyol.com:443 "GET /pd/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:31:03,668 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:31:03,829 - DEBUG - https://www.trendyol.com:443 "GET /kayip-kita-yayinlari/eriyen-sinif-bez-ciltli-p-871893837?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:31:04,018 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-bez-ciltli-p-871893837?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:31:08,115 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:31:08,294 - DEBUG - https://www.trendyol.com:443 "GET /sule-yayinlari/oykumuzun-hikayesi-p-871893805?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:31:08,458 - DEBUG - https://www.trendyol.com:443 "GET /pd/sule-yayinlari/oykumuzun-hikayesi-p-871893805?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:31:12,561 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:31:12,727 - DEBUG - https://www.trendyol.com:443 "GET /divan-kitap/kuyruklu-yildiz-altinda-bir-izdivac-arapca-p-871893767?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:31:12,892 - DEBUG - https://www.trendyol.com:443 "GET /pd/divan-kitap/kuyruklu-yildiz-altinda-bir-izdivac-arapca-p-871893767?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:31:17,008 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:31:17,266 - DEBUG - https://www.trendyol.com:443 "GET /elips-kitap/cocuklara-siirler-p-871893429?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:31:17,471 - DEBUG - https://www.trendyol.com:443 "GET /pd/elips-kitap/cocuklara-siirler-p-871893429?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:31:21,591 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:31:21,784 - DEBUG - https://www.trendyol.com:443 "GET /sule-yayinlari/bana-ogretmenini-soyle-p-871893411?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:31:21,972 - DEBUG - https://www.trendyol.com:443 "GET /pd/sule-yayinlari/bana-ogretmenini-soyle-p-871893411?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:31:26,123 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:31:26,390 - DEBUG - https://www.trendyol.com:443 "GET /fom-kitap/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:31:26,714 - DEBUG - https://www.trendyol.com:443 "GET /fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:31:26,979 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:31:31,088 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:31:31,444 - DEBUG - https://www.trendyol.com:443 "GET /marifet-yayinlari/insani-kamil-sohbetler-4-p-871890721?merchantId=995917&filterOverPriceListings=false HTTP/11" 301 None
+2024-11-07 17:31:31,706 - DEBUG - https://www.trendyol.com:443 "GET /pd/marifet-yayinlari/insani-kamil-sohbetler-4-p-871890721?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:32:11,329 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:32:11,498 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:32:15,643 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:32:16,318 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:32:20,444 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:32:20,683 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:32:24,806 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:32:25,074 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:33:12,763 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:33:12,949 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:33:17,070 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:33:17,244 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:33:21,367 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:33:21,565 - DEBUG - https://www.trendyol.com:443 "GET /pd/pinhan-yayincilik/bilgi-sosyolojisi-p-202036874 HTTP/11" 200 None
+2024-11-07 17:34:04,582 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:34:04,786 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:34:08,897 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:34:09,154 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:34:13,254 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:34:13,418 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:34:17,505 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:34:17,659 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:34:34,685 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:34:34,854 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:35:42,614 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:35:42,749 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:35:59,783 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:35:59,932 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:36:22,846 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:36:22,995 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:37:22,676 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:37:22,867 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:37:51,752 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:37:51,940 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:37:59,759 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:37:59,913 - DEBUG - https://www.trendyol.com:443 "GET /pd/kayip-kita-yayinlari/eriyen-sinif-junji-ito-kayip-kita-yayinlari-9786259514901-p-871308000?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:38:19,339 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:38:19,514 - DEBUG - https://www.trendyol.com:443 "GET /pd/butik-yayincilik/kendini-iyilestirme-isi-nasil-yapilir-p-871533017?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:39:19,190 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:39:19,484 - DEBUG - https://www.trendyol.com:443 "GET /pd/butik-yayincilik/kendini-iyilestirme-isi-nasil-yapilir-p-871533017?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:39:39,170 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:39:39,341 - DEBUG - https://www.trendyol.com:443 "GET /pd/butik-yayincilik/kendini-iyilestirme-isi-nasil-yapilir-p-871533017?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:40:16,329 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:40:16,526 - DEBUG - https://www.trendyol.com:443 "GET /pd/fol-kitap/cioran-p-870280036?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:40:54,087 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:40:54,418 - DEBUG - https://www.trendyol.com:443 "GET /pd/fol-kitap/cioran-p-870280036?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:40:58,515 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:40:58,515 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:41:30,827 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:41:30,972 - DEBUG - https://www.trendyol.com:443 "GET /pd/odtu-gelistirme-vakfi-yayincilik/13-yasina-gelmeden-yasanacak-50-macera-icin-kilavuz-ciltli-p-871890720?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:41:35,075 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:41:35,076 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:42:56,392 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:42:58,393 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:43:23,776 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:43:25,777 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:44:03,379 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:44:05,380 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:44:24,485 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:44:26,486 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:44:38,785 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:44:40,787 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:45:06,504 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:45:08,505 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:47:22,841 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:47:24,842 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:47:28,247 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:47:30,248 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:48:31,362 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:48:33,363 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:49:43,929 - ERROR - Giriþ yapýlýrken bir hata meydana geldi: No connection adapters were found for "{'link': 'https://www.trendyol.com/destek-yayinlari/her-kalbe-bahar-gelir-ama-bazilari-cicek-acar-p-872382925?merchantId=995917&filterOverPriceListings=false'}"
+2024-11-07 17:49:45,932 - ERROR - Sayfa içeriði alýnamadý.
+2024-11-07 17:50:53,976 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:50:54,183 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:50:58,278 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:50:58,279 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:50:58,281 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:50:58,422 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:51:02,518 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:51:02,519 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:51:02,521 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:51:02,708 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:51:06,803 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:51:06,804 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:51:06,807 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:51:06,976 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:51:11,057 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:51:11,058 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:51:11,060 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:51:11,267 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:51:15,357 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:51:15,358 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:51:15,360 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:51:15,524 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:51:19,593 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:51:19,593 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:51:19,596 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:51:19,757 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:51:23,835 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:51:23,836 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:51:23,838 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:51:24,163 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:51:28,252 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:51:28,253 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:53:36,946 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:53:37,113 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:53:41,202 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:53:41,203 - WARNING - Fiyat bilgisi bulunamadý.
+2024-11-07 17:54:20,243 - DEBUG - Starting new HTTPS connection (1): www.trendyol.com:443
+2024-11-07 17:54:20,416 - DEBUG - https://www.trendyol.com:443 "GET /pd/fom-kitap-yayinlari/dede-korkut-kitabi-p-871890732?merchantId=995917&filterOverPriceListings=false HTTP/11" 200 None
+2024-11-07 17:54:24,500 - WARNING - Satýcý bilgisi bulunamadý.
+2024-11-07 17:54:24,500 - WARNING - Fiyat bilgisi bulunamadý.
